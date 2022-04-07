@@ -18,3 +18,7 @@
 - https://github.com/P-jinwan/Dacon/blob/master/Blue%20House%20Petition%EF%BC%9AWhat%20is%20the%20theme%20of%20the%20petition%EF%BC%9F/Blue_House_Petition%EF%BC%9AWhat_is_the_theme_of_the_petition%EF%BC%9F.ipynb
 - 학습 방법: Deep Learning┃문제 유형: 분류┃IDE: <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>┃평가 산식 : ACCURACY
 - 사용 함수: tqdm, Okt, Mecab, EarlyStopping, ModelCheckpoint, Tokenizer, pad_sequences┃데이콘 점수: 0.8604
+### `6.` 전복의 나이 예측하기
+- https://github.com/P-jinwan/Dacon/blob/master/abalone%20age%20prediction%20contest/abalone_age_prediction_contest(cr_version).ipynb
+- 학습 방법: Machine Learning┃문제 유형: 회귀┃IDE: <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>┃평가 산식 : nmae score
+- 알고리즘: LGBMRegressor, XGBRegressor, GradientBoostingRegressor┃앙상블 기법 Soft_Voting┃데이콘 점수: 0.15886
